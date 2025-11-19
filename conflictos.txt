@@ -1,0 +1,5 @@
+El primer conflicto que enfrentamos fue que Aylu, participante B, colaborador,
+subió archivos de primera. Esto provocó que Kris, participante A, creadora del repositorio, no le
+permitiera la consola realizar el push para no sobreescribir lo que ya estaba. Entonces usamos
+el comando git merge --allow-unrelated-histories , para commitear todo. Se repitió cuando participante B
+intentó hacerlo lo mismo. 
